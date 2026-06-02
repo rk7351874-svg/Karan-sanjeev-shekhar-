@@ -1,0 +1,6 @@
+{
+  "name": "Student Productivity App",
+  "description": "A premium, clutter-free, and highly aesthetic Pomodoro, Task Manager, and Note-Taking app designed for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
